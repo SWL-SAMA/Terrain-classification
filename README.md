@@ -34,9 +34,9 @@ This dataset is plenty easy for this network. I tested this model on 800 images 
 
 ![test](./imgs/test1.png)
 ![test](./imgs/test2.png)
+
 Test Figure 2 is taken while the robot is moving at high speed, and it also get a outstanding prediction.
 
 I also show the training and evalidation loss and accuracy curve here:
-
 ![curve1](./imgs/curve1.png)
 ![curve2](./imgs/curve2.png) 
