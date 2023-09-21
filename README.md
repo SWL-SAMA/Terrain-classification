@@ -31,6 +31,7 @@ This project is my final assignment for the course "Deep learning" during my jun
    ```
 ## Result
 This dataset is plenty easy for this network. I tested this model on 800 images and got a 96.125% of accuracy after only 50 training epochs.
+
 ![test](./imgs/test1.png)
 ![test](./imgs/test2.png)
 Test Figure 2 is taken while the robot is moving at high speed, and it also get a outstanding prediction.
